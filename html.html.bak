@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset = "UTF-8">
+		<title> Resume V Khodoruk </title>
+		<link rel = "shortcut icon" href ="Pics/Icon.jpg"/>
+		<link rel = "stylesheet" href ="Style.css"/>
+	</head>
+	<body>
+		<div class = "section-1">
+			<div>
+				<div class = "name-surname">
+					<p>Vladislav Khodoruk</p>
+				</div>
+				<div class = "greeting">
+					<p>Привет! Я студент второго курса БГУИР.
+					Довольно много времени я посвящаю учёбе, но в свободное время люблю 
+					отдохнуть в компании друзей и заняться спортом. В будущем я бы хотел
+					стать front-end разработчиком.</p>
+				</div>
+			</div>
+		</div>
+		<div class = "section-2">
+		
+		</div>
+		/*<div class = "section-3">
+			<a href = "https://vk.com/squonky" target = "_blank"> <img src = "Pics/Vk icon.jpg" height = 40px></a>
+			<a href ="https://www.instagram.com/squonk_v/" target = "_blank"> <img src = "Pics/Instagram icon.jpg" height = 40px></a>
+			<p> <img src = "Pics/Mail icon.jpg" height = 40px>xodoruk@mail.ru</p>
+			<p><a href="#top"><img src = "Pics/Arrow icon.jpg" height = 40px></a></p>
+		</div>*/
+	</body>
+</html>

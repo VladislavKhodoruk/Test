@@ -1,0 +1,48 @@
+body
+{
+	background-color: #569fff;
+}
+.section-1
+{
+	display: flex;
+	justify-content: space-around;
+    background-color: white;
+	margin-top: 3em;
+	margin-right: 5em;
+	margin-left: 5em;
+}
+.section-2
+{
+	display: flex;
+	background-color: grey;
+	justify-content: space-around;
+	align-items: center;
+}
+.name-surname
+{
+	color: #569fff;
+	font-size: 25px;
+	font-family: calibri;
+	padding: 0px;
+}
+.greeting
+{
+	display: flex;
+	text-align: left;
+	color: black;
+	font-size: 23px;
+	font-family: calibri;
+}
+.social
+{
+	display: flex;
+}
+.links
+{
+	padding: 10px;
+}
+.g
+{
+	margin-top: 20px;
+
+}

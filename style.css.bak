@@ -1,0 +1,27 @@
+body
+{
+	background-color: #569fff;
+	padding: 50px;
+}
+.section-1
+{
+	background-position: center;
+    background-color: white;
+    padding: 20px;
+}
+.name-surname
+{
+	color: #569fff;
+	font-size: 50px;
+	font-family: Calibri;
+	padding: 0px;
+}
+.greeting
+{
+	color: black;
+	font-size: 20px;
+	font-family: calibri;
+	margin-top: -1%;
+	margin-right: 7%;
+	margin-left: 50%;
+}
