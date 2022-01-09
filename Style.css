@@ -1,3 +1,12 @@
+A {
+    color: white;
+   }
+   A:visited {
+    color: white;
+   }
+   A:active {
+    color: #7bb4ff;
+}
 body
 {
 	color: black;
@@ -81,10 +90,12 @@ body
 	display: flex;
 	flex-direction: row;
 	justify-content: left;
-	margin-right: 25px;
+	margin-right: 10px;
+	margin-left: 10px;
 	margin-top: 7px;
 	margin-bottom: 5px;
 	color: #569fff;
+	height: 30px;
 }
 .background-2
 {
@@ -144,4 +155,30 @@ body
 	margin-left: 140px;
 	margin-bottom: 35px;
 	border-radius: 5px;
+}
+.background-4
+{
+	background-color: black;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.section-4
+{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	color: white;
+	padding: 20px
+}
+.anchor
+{
+	color: white;
+	margin: 10px;
+	font-size: 20px;
+}
+.developer
+{
+	font-family: calibri;
+	font-size: 15px; 
+	color: grey;
 }
