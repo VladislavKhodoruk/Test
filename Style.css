@@ -1,10 +1,13 @@
-A {
+A 
+{
     color: white;
-   }
-   A:visited {
+}
+A:visited 
+{
     color: white;
-   }
-   A:active {
+}
+A:active
+{
     color: #7bb4ff;
 }
 body
